@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graph>
+    <Attributes idControlVertex="9" idControlEdge="12" />
+    <Vertexes>
+        <Vertex id="1" />
+        <Vertex id="2" />
+        <Vertex id="3" />
+        <Vertex id="4" />
+        <Vertex id="5" />
+        <Vertex id="6" />
+        <Vertex id="7" />
+        <Vertex id="8" />
+        <Vertex id="9" />
+    </Vertexes>
+    <Edges>
+        <Edge id="1" alpha="1" omega="2" />
+        <Edge id="2" alpha="2" omega="3" />
+        <Edge id="3" alpha="2" omega="4" />
+        <Edge id="4" alpha="3" omega="4" />
+        <Edge id="5" alpha="4" omega="5" />
+        <Edge id="6" alpha="4" omega="6" />
+        <Edge id="7" alpha="4" omega="7" />
+        <Edge id="8" alpha="5" omega="6" />
+        <Edge id="9" alpha="5" omega="7" />
+        <Edge id="10" alpha="6" omega="7" />
+        <Edge id="11" alpha="7" omega="8" />
+        <Edge id="12" alpha="8" omega="9" />
+    </Edges>
+</Graph>
